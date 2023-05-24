@@ -3,7 +3,7 @@
 ## Group Members:
 1. Sharul Irfan bin Sharul Isram 1921825
 2. Mazin Muhammed Anes 2116025
-3. Aiman
+3. Muhammad Aiman bin Hisyam 1917799
 4. Salmaan Mohammad Hanif Bhat 2114727
 5. Zafran
 
