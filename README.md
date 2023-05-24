@@ -72,6 +72,5 @@ Develop a responsive user interface that works seamlessly on various devices, in
 
 # Sequence Diagram
 **Restaurant Inventory System Sequence Diagram**
-![erd](Group2
-/photo1684943666.jpeg)
+<img src="https://embed.creately.com/BILSdy3HPxj?token=dkVufK8FIW9wcVGJ&type=svg">
 
