@@ -5,7 +5,7 @@
 2. Mazin Muhammed Anes 2116025
 3. Muhammad Aiman bin Hisyam 1917799
 4. Salmaan Mohammad Hanif Bhat 2114727
-5. Zafran
+5. Muhammad Zafran bin Zamani 2110893
 
 # Introduction
 A lot of restaurants and cafes nowadays have ways to manage their inventories. Some use the traditional method of keeping a book or ledger to keep track. Others may use a system like what our application is offerring
