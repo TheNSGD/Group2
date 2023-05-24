@@ -1,11 +1,33 @@
 # Group2
 # Restaurant Inventory System
 ## Group Members:
-1. Sharul Irfan bin Sharul Isram 1921825
-2. Mazin Muhammed Anes 2116025
-3. Muhammad Aiman bin Hisyam 1917799
-4. Salmaan Mohammad Hanif Bhat 2114727
-5. Muhammad Zafran bin Zamani 2110893
+<h3> Group Members</h3>
+<table>
+    <tr>
+      <th>Name</th>
+      <th>Matric Number</th>
+    </tr>
+    <tr>
+      <td>Sharul Irfan bin Sharul Isram</td>
+      <td>1921825</td>
+    </tr>
+    <tr>
+      <td>Mazin Muhammed Anes</td>
+      <td>2116025</td>
+    </tr>
+    <tr>
+      <td>Muhammad Aiman bin Hisyam</td>
+      <td>1917799</td>
+    </tr>
+    <tr>
+      <td>Salmaan Mohammad Hanif Bhat</td>
+      <td>2114727</td>
+    </tr>
+    <tr>
+      <td>Zafran</td>
+      <td>0000000</td>
+    </tr>
+</table>
 
 # Introduction
 A lot of restaurants and cafes nowadays have ways to manage their inventories. Some use the traditional method of keeping a book or ledger to keep track. Others may use a system like what our application is offerring
