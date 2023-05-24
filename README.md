@@ -1,2 +1,4 @@
 # Group2
-Restaurant inventory system
+# Restaurant Inventory System
+## Group Members:
+Sharul Irfan bin Sharul Isram 1921825
