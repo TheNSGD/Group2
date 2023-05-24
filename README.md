@@ -28,7 +28,7 @@
 </table>
 
 # Title
-Restaurant Inventory System
+**Restaurant Inventory System**
 
 # Introduction
 A lot of restaurants and cafes nowadays have ways to manage their inventories. Some use the traditional method of keeping a book or ledger to keep track. Others may use a system like what our application is offerring
