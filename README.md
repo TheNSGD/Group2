@@ -64,3 +64,10 @@ Deduct sold items from the inventory and update the quantity accordingly.
 5. Responsive Design:
 
 Develop a responsive user interface that works seamlessly on various devices, including desktops, tablets, and mobile phones.
+
+**Restaurant Inventory System ER Dragram**
+
+![erd webapp](https://github.com/TheNSGD/Group2/assets/92367771/585dee68-4085-4864-a9f2-aa898b7e5c04)
+
+
+
