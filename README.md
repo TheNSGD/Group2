@@ -70,5 +70,7 @@ Develop a responsive user interface that works seamlessly on various devices, in
 
 ![erd webapp](https://github.com/TheNSGD/Group2/assets/92367771/585dee68-4085-4864-a9f2-aa898b7e5c04)
 
-
+# Sequence Diagram
+**Restaurant Inventory System Sequence Diagram**
+<img src="https://embed.creately.com/BILSdy3HPxj?token=dkVufK8FIW9wcVGJ&type=svg">
 
