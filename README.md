@@ -1,6 +1,5 @@
 # Group2
 # Restaurant Inventory System
-## Group Members:
 <h3> Group Members</h3>
 <table>
     <tr>
@@ -25,7 +24,7 @@
     </tr>
     <tr>
       <td>Zafran</td>
-      <td>0000000</td>
+      <td>2110893</td>
     </tr>
 </table>
 
