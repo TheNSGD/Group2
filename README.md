@@ -1,5 +1,4 @@
-# Group2
-# Restaurant Inventory System
+# INFO 3305 Web Application Development Sem 2, 2022/2023 Group Project, Section 2 - Group 2
 <h3> Group Members</h3>
 <table>
     <tr>
@@ -27,6 +26,9 @@
       <td>2110893</td>
     </tr>
 </table>
+
+# Title
+Restaurant Inventory System
 
 # Introduction
 A lot of restaurants and cafes nowadays have ways to manage their inventories. Some use the traditional method of keeping a book or ledger to keep track. Others may use a system like what our application is offerring
