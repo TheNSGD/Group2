@@ -23,7 +23,7 @@
       <td>2114727</td>
     </tr>
     <tr>
-      <td>Zafran</td>
+      <td>Muhammad Zafran bin Zamani</td>
       <td>2110893</td>
     </tr>
 </table>
