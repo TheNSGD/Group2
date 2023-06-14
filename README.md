@@ -74,3 +74,6 @@ Develop a responsive user interface that works seamlessly on various devices, in
 **Restaurant Inventory System Sequence Diagram**
 
 ![erd webapp](chatuml-diagram.svg)
+
+# Challenges Faced
+Some challenges that we faced for the project is that errors with the XAMPP that we eventually resolved due to our lecturer's help and solutions on the internet. We also faced some difficulties due to not knowing how to use PHP, Laravel and XAMPP but this got better over time as we began to learn more about each one
