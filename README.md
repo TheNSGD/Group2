@@ -73,3 +73,4 @@ Develop a responsive user interface that works seamlessly on various devices, in
 # Sequence Diagram
 **Restaurant Inventory System Sequence Diagram**
 
+![erd](chatuml-diagram.svg)
