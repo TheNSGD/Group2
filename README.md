@@ -75,5 +75,13 @@ Develop a responsive user interface that works seamlessly on various devices, in
 
 ![erd webapp](chatuml-diagram.svg)
 
+# Code
+
+![erd webapp](inventory.jpg)
+In this image, we have the inventory menu. By pressing the add button it will transfer to the screen below.
+
+![erd webapp](additem.jpg)
+In this image, we can add the Item ID, Item Name, Quantity, Supplier Details and a Low Stock Alert. Clicking add will add the data into the table.
+
 # Challenges Faced
 Some challenges that we faced for the project is that errors with the XAMPP that we eventually resolved due to our lecturer's help and solutions on the Internet. We also faced some difficulties due to not knowing how to use PHP, Laravel and XAMPP but this got better over time as we began to learn more about each language.
