@@ -77,6 +77,18 @@ Develop a responsive user interface that works seamlessly on various devices, in
 
 # Code
 
+![erd webapp](home.jpg)
+This is the page that will first greet our visitors. If the visitor does not have a account, the screen will show below.
+
+![erd webapp](create.jpg)
+This page is where users create an account. They can fill in their details.
+
+![erd webapp](welcome.jpg)
+This page is what shows up when someone creates an account
+
+![erd webapp](login.jpg)
+If the user has an account, they can enter their details in the page.
+
 ![erd webapp](inventory.jpg)
 In this image, we have the inventory menu. By pressing the add button it will transfer to the screen below.
 
